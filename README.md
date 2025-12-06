@@ -62,9 +62,12 @@ src/main/resources
 
  # ⚙️ player.properties
 
- player.id=1
+player.id=1
+
 player.name=Rohit
+
 player.yearsNumber=45
+
 team.name=MI
 
 ---
@@ -72,8 +75,12 @@ team.name=MI
 # 📦 Output
 
 Player Information:
+
 Player ID      : 45
+
 Player Name    : Rohit
+
 Years Number   : 45
+
 Team Name      : MI
 
